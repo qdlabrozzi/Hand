@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hands
+* source:	https://sketchfab.com/3d-models/hands-5d7a3972269e48638fe434b876560bec
+* author:	qlabrozzi (https://sketchfab.com/qlabrozzi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hands" (https://sketchfab.com/3d-models/hands-5d7a3972269e48638fe434b876560bec) by qlabrozzi (https://sketchfab.com/qlabrozzi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
